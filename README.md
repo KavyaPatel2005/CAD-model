@@ -12,7 +12,7 @@ The uploaded `.f3d` and `.f3z` files represent:
 
 These files are intended for simulation, visualization, and prototyping purposes in fields like automation, robotics, and thermal analysis.
 
-## 🛠️ Tools Used
+## Tools Used
 - Autodesk Fusion 360 (for modeling and assembly)
 
 
