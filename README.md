@@ -14,5 +14,7 @@ These files are intended for simulation, visualization, and prototyping purposes
 
 ## Tools Used
 - Autodesk Fusion 360 (for modeling and assembly)
+- Solidworks
+-  AutoCAD
 
 
